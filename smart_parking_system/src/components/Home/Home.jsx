@@ -2,10 +2,11 @@ import React  from 'react';
 const Home =()=>{
   return (
     <div>
-      <Header>
+      <header>
         <h1>Smart Parking System</h1>
-
-      </Header>
+          
+      </header>
     </div>
-  )
+  );
 }
+export default Home;
